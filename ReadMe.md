@@ -38,8 +38,11 @@ The final results include a shortlist of the top young midfielders who meet the 
 
 ### Files in the Repository
 Data_Filtering_and_Preparation.ipynb: Jupyter Notebook for data filtering and preparation.
+
 Ranking_Players.ipynb: Jupyter Notebook for possession adjustment and player ranking.
+
 Top Targets Presentation.pptx: Presentation highlighting the potential targets.
+
 The Approach of Identifying Top Young Versatile Midfielders.pdf: Detailed report describing the methodology and results.
 ## How to Use
 ### Clone the Repository:
@@ -50,6 +53,7 @@ cd young-midfielders-ranking
 ### Install Dependencies:
 Ensure you have Python and Jupyter Notebook installed.
 Install the required Python packages using:
+
 pip install -r requirements.txt
 
 ## Run Jupyter Notebooks:
