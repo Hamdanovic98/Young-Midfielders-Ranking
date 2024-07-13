@@ -47,7 +47,7 @@ The Approach of Identifying Top Young Versatile Midfielders.pdf: Detailed report
 ## How to Use
 ### Clone the Repository:
 
-git clone https://github.com/yourusername/young-midfielders-ranking.git
+git clone https://github.com/Hamdanovic98/Young-Midfielders-Ranking.git
 cd young-midfielders-ranking
 
 ### Install Dependencies:
